@@ -7,6 +7,5 @@ export default class CandidateService{
     registerCandidate(values){
         return axios.post()
     }
-
     
 }
